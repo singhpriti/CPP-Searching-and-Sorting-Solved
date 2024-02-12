@@ -1,5 +1,5 @@
 {
-    "console-ninja.toolsToEnableSupportAutomaticallyFor": {
-        "live-server-extension": true
+    "files.associations": {
+        "iostream": "cpp"
     }
 }
